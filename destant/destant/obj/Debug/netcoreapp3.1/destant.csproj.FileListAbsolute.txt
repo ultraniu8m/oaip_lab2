@@ -1,0 +1,15 @@
+C:\Users\user\source\repos\destant\destant\bin\Debug\netcoreapp3.1\destant.exe
+C:\Users\user\source\repos\destant\destant\bin\Debug\netcoreapp3.1\destant.deps.json
+C:\Users\user\source\repos\destant\destant\bin\Debug\netcoreapp3.1\destant.runtimeconfig.json
+C:\Users\user\source\repos\destant\destant\bin\Debug\netcoreapp3.1\destant.runtimeconfig.dev.json
+C:\Users\user\source\repos\destant\destant\bin\Debug\netcoreapp3.1\destant.dll
+C:\Users\user\source\repos\destant\destant\bin\Debug\netcoreapp3.1\destant.pdb
+C:\Users\user\source\repos\destant\destant\obj\Debug\netcoreapp3.1\destant.csprojAssemblyReference.cache
+C:\Users\user\source\repos\destant\destant\obj\Debug\netcoreapp3.1\destant.Form1.resources
+C:\Users\user\source\repos\destant\destant\obj\Debug\netcoreapp3.1\destant.csproj.GenerateResource.cache
+C:\Users\user\source\repos\destant\destant\obj\Debug\netcoreapp3.1\destant.AssemblyInfoInputs.cache
+C:\Users\user\source\repos\destant\destant\obj\Debug\netcoreapp3.1\destant.AssemblyInfo.cs
+C:\Users\user\source\repos\destant\destant\obj\Debug\netcoreapp3.1\destant.csproj.CoreCompileInputs.cache
+C:\Users\user\source\repos\destant\destant\obj\Debug\netcoreapp3.1\destant.dll
+C:\Users\user\source\repos\destant\destant\obj\Debug\netcoreapp3.1\destant.pdb
+C:\Users\user\source\repos\destant\destant\obj\Debug\netcoreapp3.1\destant.genruntimeconfig.cache
